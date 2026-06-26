@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+**/.omc/
+.claude/
+.agents/
+.codebuddy/
+AGENTS.md
+CLAUDE.md
+_archive/
+skills-lock.json
+docs/plans/
+*.zip
+wechat-qrcode.jpg
